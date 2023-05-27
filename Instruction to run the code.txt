@@ -1,0 +1,5 @@
+ Use javac command and file name with .java extention
+
+It will create a .class bytecode
+
+Use Java command to run the file.
